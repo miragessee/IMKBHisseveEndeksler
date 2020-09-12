@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.hakan.imkbhisseveendeksler.activities.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_yukselenler"
+        android:name="com.hakan.imkbhisseveendeksler.activities.ui.home.HomeFragment"
+        android:label="@string/menu_yukselenler"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_dusenler"
+        android:name="com.hakan.imkbhisseveendeksler.activities.ui.home.HomeFragment"
+        android:label="@string/menu_dusenler"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_hacme_gore_30"
+        android:name="com.hakan.imkbhisseveendeksler.activities.ui.home.HomeFragment"
+        android:label="@string/menu_hacme_gore_30"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_hacme_gore_50"
+        android:name="com.hakan.imkbhisseveendeksler.activities.ui.home.HomeFragment"
+        android:label="@string/menu_hacme_gore_50"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_hacme_gore_100"
+        android:name="com.hakan.imkbhisseveendeksler.activities.ui.home.HomeFragment"
+        android:label="@string/menu_hacme_gore_100"
+        tools:layout="@layout/fragment_home" />
+
+</navigation>

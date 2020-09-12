@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">IMKB Hisse ve Endeksler</string>
+    <string name="logoButton">IMKB Hisse Senetleri/Endeksler</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">VERIPARK</string>
+    <string name="nav_header_subtitle">IMKB Hisse Senetleri/Endeksler</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Hisse ve Endeksler</string>
+    <string name="menu_yukselenler">Yükselenler</string>
+    <string name="menu_dusenler">Düşenler</string>
+    <string name="menu_hacme_gore_30">Hacme Göre - 30</string>
+    <string name="menu_hacme_gore_50">Hacme Göre - 50</string>
+    <string name="menu_hacme_gore_100">Hacme Göre - 100</string>
+
+    <string name="menu_logo">Menü Logo</string>
+
+    <string name="sort_ascending">Artan Sıralı</string>
+    <string name="sort_descending">Azalan Sıralı</string>
+    <string name="row_show">Show 5. Row</string>
+    <string name="row_hide">Hide 5. Row</string>
+
+    <string name="search_plain_text">Ara</string>
+
+    <string name="stockDetailSymbol">Sembol:</string>
+    <string name="stockDetailPrice">Fiyat:</string>
+    <string name="stockDetailDifference">% Fark:</string>
+    <string name="stockDetailVolume">Hacim:</string>
+    <string name="stockDetailBid">Alış:</string>
+    <string name="stockDetailOffer">Satış:</string>
+
+    <string name="stockDetailLowest">Günlük Düşük:</string>
+    <string name="stockDetailHighest">Günlük Yüksek:</string>
+    <string name="stockDetailChange">Değişiklik:</string>
+    <string name="stockDetailMaximum">Tavan:</string>
+    <string name="stockDetailMinimum">Taban:</string>
+    <string name="stockDetailDegisim">Değişim:</string>
+
+    <string name="hiding_row_sample">Hiding 3. Row Sample</string>
+    <string name="showing_row_sample">Showing 3. Row Sample</string>
+    <string name="scroll_to_row_position">Scroll to 5. row position</string>
+
+    <string name="scroll_to_column_position">Scroll to 15. column position</string>
+    <string name="show_hide_the_column">Showing / Hiding 1. column</string>
+</resources>
